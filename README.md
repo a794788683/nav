@@ -76,7 +76,7 @@
 
 ## 预览
 
-- [https://nav3.cn](https://nav3.cn)
+- [https://gameplay.dpdns.org](https://gameplay.dpdns.org)
 
 ![Preview](https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/preview.gif)
 
